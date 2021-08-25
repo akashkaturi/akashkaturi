@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akashkaturi
-- 👀 I’m interested in WebDev and Competetive programming.
+- 👀 I’m interested in WebDev and Competitive programming.
 - 🌱 I’m currently learning c++ and web development along with machine learning.
 - 📫 How to reach me akashkaturi77@gmail.com.
 
